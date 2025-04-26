@@ -1,0 +1,14 @@
+flask
+langchain
+openai
+tiktoken
+fpdf
+flask	
+langchain_openai	
+langchain_community	
+langchain_core	
+dotenv	
+python-dotenv
+requests	
+bs4	
+transformers
